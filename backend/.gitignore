@@ -1,0 +1,14 @@
+# MINIMAL .GITIGNORE
+node_modules/
+.env
+.env.*
+.DS_Store
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+coverage/
+dist/
+build/
+render.yaml.local
+supabase-*.txt
